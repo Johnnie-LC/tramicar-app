@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@theme {
+  --color-primary: #5945FF;
+  --color-secondary: #8CA9FF;
+  --color-dark: #1E1E1E;
+  --color-grayText: #6B7280;
+  --color-tramicar-bg: oklch(94.03% 0.026 256.26 / 0.52);
+  --color-lightBg: #F9FAFB;
+  --color-stepline: rgba(103, 191, 249, 1);
+  --color-footer: #3F65F0;
+  --font-sans: "Inter", sans-serif;
+}
