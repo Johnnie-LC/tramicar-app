@@ -1,7 +1,7 @@
 import { Hero } from '@sections/Hero'
 import { Steps } from '@sections/Steps'
 import { Advantages } from '@sections/Advantages'
-import { Footer } from './sections/Footer'
+import { Footer } from '@sections/Footer'
 import { Header } from '@sections/Header'
 function App() {
   return (
