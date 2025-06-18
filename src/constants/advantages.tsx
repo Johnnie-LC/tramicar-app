@@ -1,7 +1,7 @@
-import OnlineIcon from '../assets/icons/online.svg'
-import SecureIcon from '../assets/icons/secure.svg'
-import FastIcon from '../assets/icons/fast.svg'
-import EasyIcon from '../assets/icons/easy.png'
+import OnlineIcon from '@assets/icons/online.svg'
+import SecureIcon from '@assets/icons/secure.svg'
+import FastIcon from '@assets/icons/fast.svg'
+import EasyIcon from '@assets/icons/easy.png'
 
 export const advantages = [
   {
